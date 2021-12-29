@@ -1,0 +1,1 @@
+<a href="https://www.codechef.com/problems/school/">Beginner Challenges</a>
